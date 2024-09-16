@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Guru" height="300" src="https://f.uguu.se/wEOLHZLU.jpg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <h1 align="center">𝐑𝐚𝐡𝐮𝐥 𝐓𝐞𝐜𝐡 𝐒𝐞𝐫</h1>
   </a>
 
 
