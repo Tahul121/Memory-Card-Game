@@ -9,6 +9,6 @@
  <br>
  <br>
 
-<a href='https://Loki-Xer.github.io/memory-card-game/' target="_blank"><img alt='PLAY' src='https://img.shields.io/badge/PLAY-100000?style=for-the-badge&logo= PLAY&logoColor=white&labelColor=&color='/></a>
+<a href='https://tahul121.github.io/Memory-Card-Game/' target="_blank"><img alt='PLAY' src='https://img.shields.io/badge/PLAY-100000?style=for-the-badge&logo= PLAY&logoColor=white&labelColor=&color='/></a>
 
 king loki ser
