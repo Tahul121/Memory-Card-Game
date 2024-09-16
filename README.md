@@ -2,10 +2,6 @@
   <a href="https://youtube.com/@rahultech009?si=QnNFf7OwRuLxbmzs">
     <img alt="Rahul" height="300" src="https://f.uguu.se/wEOLHZLU.jpg">
     <h1 align="center">𝐑𝐚𝐡𝐮𝐥 𝐓𝐞𝐜𝐡 𝐒𝐞𝐫</h1>
-  </a>
-
-
-
 
 
 
