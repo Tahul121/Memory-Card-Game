@@ -5,7 +5,8 @@
 
 
 
-# Memory-Card-Game
+<h1 align="center"># Memory-Card-Game</h1>
+
 <h2>memory-card-game</h2>
  <br>
 <h6>This is a memory card game made by Loki Ser. You can play this game by tapping the play button and enjoy it. If you encounter any problems, please feel free to contact me.</h6>
