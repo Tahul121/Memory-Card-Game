@@ -17,6 +17,6 @@
  <br>
  <br>
 
-<a href='https://tahul121.github.io/Memory-Card-Game/' target="_blank"><img alt='PLAY' src='https://img.shields.io/badge/PLAY-100000?style=for-the-badge&logo= PLAY&logoColor=white&labelColor=&color='/></a>
+<a href='https://rahultechser.github.io/Memory-Card-Game/' target="_blank"><img alt='PLAY' src='https://img.shields.io/badge/PLAY-100000?style=for-the-badge&logo= PLAY&logoColor=white&labelColor=&color='/></a>
 
 𝐌𝐚𝐝𝐞 𝐁𝐲 𝐑𝐚𝐡𝐮𝐥 𝐓𝐞𝐜𝐡 𝐒𝐞𝐫
